@@ -1,2 +1,3 @@
-# CodingInterview
-Collection of codes for some technical interview questions from  Codility, LeetCode and Hackerrank
+# Coding Interview
+Collection of codes for some technical interview questions from  Codility, LeetCode and Hackerrank.
+
