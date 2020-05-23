@@ -1,3 +1,9 @@
+'''
+Least integer not in list and not being able to be made of the sum of two elements in the list.
+
+'''
+
+
 from itertools import combinations
 
 
