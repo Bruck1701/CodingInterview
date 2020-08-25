@@ -1,7 +1,6 @@
 def serviceLane(n, cases,width):
 	result = []
 	for el in cases:
-
 		max_size = min(width[el[0]:el[1]+1])
 		result.append(max_size)
 	return result
