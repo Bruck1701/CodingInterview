@@ -32,9 +32,7 @@ def findSubstring(s, k):
 	if maxValue == 0:
 		return "Not found!"
 
-
-
-	print(s[pos:pos+k])
+	return s[pos:pos+k]
 
 
 

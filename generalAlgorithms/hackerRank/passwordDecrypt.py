@@ -5,7 +5,7 @@ def decryptPassword(s):
 	count = 0
 
 	for el in s:
-		if el.isalpha():
+		if el.isalpha() or el=='0':
 			break
 		else:
 			numbers.append(el)
